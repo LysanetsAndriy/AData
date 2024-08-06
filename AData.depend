@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1681582986 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\adata.cpp
+	"AData.hpp"
+
+1681582983 e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\adata.hpp
+	<vector>
+	<fstream>
+
+1681555013 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\filereader.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<float.h>
+	"FileReader.hpp"
+
+1680903799 e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\filereader.hpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<float.h>
+	"AData.hpp"
+
+1681588607 source:e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\datapreprocess.cpp
+	<iostream>
+	<random>
+	<float.h>
+	"DataPreprocess.hpp"
+
+1680903767 e:\1 курс\2 семестр\Прога\Практика\static_libraies\adata\datapreprocess.hpp
+	"AData.hpp"
+
+1681582986 source:d:\rlv\static_libraries\adata\adata.cpp
+	"AData.hpp"
+
+1681582983 d:\rlv\static_libraries\adata\adata.hpp
+	<vector>
+	<fstream>
+
+1681588607 source:d:\rlv\static_libraries\adata\datapreprocess.cpp
+	<iostream>
+	<random>
+	<float.h>
+	"DataPreprocess.hpp"
+
+1680903767 d:\rlv\static_libraries\adata\datapreprocess.hpp
+	"AData.hpp"
+
+1681555013 source:d:\rlv\static_libraries\adata\filereader.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<float.h>
+	"FileReader.hpp"
+
+1680903799 d:\rlv\static_libraries\adata\filereader.hpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<sstream>
+	<algorithm>
+	<float.h>
+	"AData.hpp"
+
